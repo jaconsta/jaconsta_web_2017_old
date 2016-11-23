@@ -6,6 +6,13 @@ Thanks to html5up for the template.
 
 Enjoy.
 
+---------------------------------------------------------------------------------------
+
+Colors used:
+  #265C00 Emerald
+  #68A225 Green bean
+  #B3DE81 Light green
+  #FDFFFF Cotton
 
 ---------------------------------------------------------------------------------------
 Astral by HTML5 UP
