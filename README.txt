@@ -4,6 +4,12 @@ Web page source code.
 
 Thanks to html5up for the template.
 
+* Run *
+
+Download browser-sync: npm install -g browser-sync
+
+Execute: browser-sync start -s ..\jaconsta_web --no-open
+
 Enjoy.
 
 ---------------------------------------------------------------------------------------
